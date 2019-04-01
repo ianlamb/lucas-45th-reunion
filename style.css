@@ -1,0 +1,27 @@
+.title {
+	background: url(images/titleGrad.gif);
+	border: 1px solid black;
+}
+.content {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	background: #0099ff url(images/contGrad.gif) repeat-x top right;
+}
+}a:link {
+	color: #FFFFFF;
+}
+a:visited {
+	color: #FFFFFF;
+}
+a:hover {
+	color: #0000ee;
+}
+a:active {
+	color: #FFFFFF;
+}
+body {
+	color: #FFFFFF;
+	font-family: arial;
+}
